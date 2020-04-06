@@ -1,4 +1,4 @@
-# CS121 - Temperature Sensor Lab
+# CS110 - Temperature Sensor Lab
 
 import mysql.connector
 import json
@@ -13,7 +13,7 @@ ADDRESS = 0x48
 
 def show_table_header():
     print("Temperature Data Table")
-    print("Jim Eddy\n") # Replace with your name here!
+    print("Isaac Krementsov\n")
     print("DATE\t   TIME \t   TEMP_C     TEMP_F")
     print("----------------------------------------------")
 
